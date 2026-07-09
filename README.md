@@ -1,7 +1,7 @@
 # INCODEVISION_PP_01
 
 **Day 1 Task: Password Generator with Error Handling**  
-**Name:** Navya  
+**Name:** Rakesh 
 **GitHub Repo:** https://github.com/Rakesh743/INCODEVISION_PP_01
 
 ### Code Features
